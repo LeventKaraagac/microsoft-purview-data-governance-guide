@@ -1,4 +1,5 @@
 # Data Governance with Microsoft Purview — A Practical Guide for SMBs
+Last updated: 01/10/2026
 
 Part of the **Microsoft 365 Security Foundations** series — practical, production-tested guides for securing Microsoft 365 as a small or growing business.
 
